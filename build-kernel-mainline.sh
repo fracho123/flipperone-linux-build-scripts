@@ -8,7 +8,7 @@
 : "${CONFIGS:=configs/linux}"
 
 : "${LINUX_GIT:=https://github.com/fracho123/flipper-linux-kernel.git}"
-: "${LINUX_BRANCH:=rock4d-aic8800d80}"
+: "${LINUX_BRANCH:=rock4d-aic8800d80-staging-pr}"
 
 set -e
 
